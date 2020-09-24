@@ -1,0 +1,54 @@
++++
++++
++++
+Where would you like to play
+[[0][1][2]]
+[[3][4][5]]
+[[6][7][8]]
+To quit hit [9]
+0
+O++
++++
++++
+Where would you like to play
+[[0][1][2]]
+[[3][4][5]]
+[[6][7][8]]
+To quit hit [9]
+1
+OX+
++++
++++
+Where would you like to play
+[[0][1][2]]
+[[3][4][5]]
+[[6][7][8]]
+To quit hit [9]
+3
+OX+
+O++
++++
+Where would you like to play
+[[0][1][2]]
+[[3][4][5]]
+[[6][7][8]]
+To quit hit [9]
+7
+OX+
+O++
++X+
+Where would you like to play
+[[0][1][2]]
+[[3][4][5]]
+[[6][7][8]]
+To quit hit [9]
+6
+OX+
+O++
+OX+
+Where would you like to play
+[[0][1][2]]
+[[3][4][5]]
+[[6][7][8]]
+To quit hit [9]
+9
