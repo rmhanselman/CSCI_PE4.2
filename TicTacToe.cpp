@@ -6,6 +6,10 @@ std::vector<std::vector<std::string>> CreateBoard{
   std::vector<std::vector<std::string>> v{{"", "", ""},{"", "", ""},{"", "", ""}}; 
 }
 
+std::vector<std::vector<std::string>> PlaceMarker(int[2] arr_, std::vector<std::string>> input, char marker){
+   input[arr_[0]].insert(marker,arr_);
+   return input;
+}
 
 void displayBoard(std::vector<std::vector<std::string>> input){
   for(int i = 0; i < 3; i++){
