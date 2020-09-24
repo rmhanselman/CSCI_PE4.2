@@ -39,17 +39,17 @@ int[] GetPlayerChoice(){
       break;
     }
     
-    else if( i == 2{
+    else if( i == 2){
       ret[0] = 0;
       ret[1] = 2;
       break;
     }
-    else if( i == 3{
+    else if( i == 3){
       ret[0] = 1;
       ret[1] = 0;
       break;
     }
-    else if( i == 4{
+    else if( i == 4){
       ret[0] = 1;
       ret[1] = 1;
       break;
@@ -59,17 +59,17 @@ int[] GetPlayerChoice(){
       ret[1] = 2;
       break;
     }
-    else if( i == 6{
+    else if( i == 6){
       ret[0] = 2;
       ret[1] = 0;
       break;
     }
-    else if( i == 7{
+    else if( i == 7){
       ret[0] = 2;
       ret[1] = 1;
       break;
     }
-    else if( i == 8{
+    else if( i == 8){
       ret[0] = 2;
       ret[1] = 2;
       break;
