@@ -6,7 +6,7 @@ std::vector<std::vector<std::string>> CreateBoard{
 }
 
 std::vector<std::vector<std::string>> PlaceMarker(int[2] arr_, std::vector<std::string>> input, char marker){
-   input[arr_[0]].insert(marker,arr_2);
+   input[arr_[0]].insert(marker,arr_);
    return input;
 }
 
